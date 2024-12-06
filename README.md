@@ -1,3 +1,3 @@
 # Demo
-1st git repository
+1st git repository.
 Manjima
